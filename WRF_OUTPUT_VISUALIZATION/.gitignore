@@ -1,0 +1,6 @@
+09_01_2025/wrf_outputs/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+logs/

@@ -1,0 +1,9 @@
+notebook
+wrf-python
+matplotlib
+xarray
+cartopy
+numpy
+pandas
+netCDF4
+
